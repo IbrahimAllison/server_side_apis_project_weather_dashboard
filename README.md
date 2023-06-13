@@ -11,7 +11,7 @@
 **Credits/References**
 
 a. Assistance from the instructor and classmates
-b. Codes retrieved from: https://github.com/njthanhtrang/6.-Server-Side-APIs-Challenge-Weather-Dashboard
+b. Codes retrieved from: https://github.com/TyeStanley/weather-dashboard
 c. Boostrap form reference from W3 Schools: https://www.w3schools.com/bootstrap5/bootstrap_form_input_group.php
 d. API key and API calls from: https://openweathermap.org/
 e. Font Awesome
