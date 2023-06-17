@@ -28,5 +28,15 @@ e. Unicode character and HTML entity for Fahrenheit obtained from: https://www.c
 MIT License was used for this project.
 
 **Link to the Deployed Application/Website**
-
+Here is the link to the deployed application: https://ibrahimallison.github.io/server_side_apis_project_weather_dashboard/#
 **Screenshot of the Deployed Application See the screenshot of the deployed application below**
+![image](https://github.com/IbrahimAllison/server_side_apis_project_weather_dashboard/assets/116689797/788c6bcc-7c69-4aa5-a313-6fd0c82f6f09)
+
+![image](https://github.com/IbrahimAllison/server_side_apis_project_weather_dashboard/assets/116689797/f4de99d4-1245-46ca-a347-ef88955cb871)
+
+![image](https://github.com/IbrahimAllison/server_side_apis_project_weather_dashboard/assets/116689797/794baa28-2a36-4246-910e-1b062ca1f879)
+
+
+
+
+
