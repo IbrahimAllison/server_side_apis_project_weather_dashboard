@@ -1,4 +1,3 @@
-// Set global variables and add key to Open Weather Maps API
 var myAPI = "954ef440730995cee08acf8d0fd0e617";
 var presentCity = "";
 var previousCity = "";
